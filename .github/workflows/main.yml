@@ -3,7 +3,7 @@ name: Update Arxiv Papers
 
 on:
   schedule:
-    - cron: '0 0 * * *' 
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -27,20 +27,22 @@ jobs:
     - name: Run daily_arxiv.py
       run: python daily_arxiv.py
 
-    - name: Pull changes
+    - name: Pull and rebase changes
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git pull --rebase
+        git checkout -b temp-branch
+        git pull --rebase origin main
+        git checkout main
+        git merge temp-branch
+        git branch -d temp-branch
 
-    - name: Commit changes
+    - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add README.md data_store/
         git commit -m "Update arXiv papers"
         git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
