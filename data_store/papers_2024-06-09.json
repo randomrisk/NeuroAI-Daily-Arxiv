@@ -1,0 +1,442 @@
+{
+  "Brain": {
+    "2406.04328v1": {
+      "title": "The Brain's Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning",
+      "url": "http://arxiv.org/abs/2406.04328v1",
+      "authors": "Dulhan Jayalath, Gilad Landau, Brendan Shillingford, Mark Woolrich, Oiwi Parker Jones",
+      "update_time": "2024-06-06"
+    },
+    "2406.04318v1": {
+      "title": "Adaptive Sampling of k-Space in Magnetic Resonance for Rapid Pathology Prediction",
+      "url": "http://arxiv.org/abs/2406.04318v1",
+      "authors": "Chen-Yu Yen, Raghav Singhal, Umang Sharma, Rajesh Ranganath, Sumit Chopra, Lerrel Pinto",
+      "update_time": "2024-06-06"
+    },
+    "2406.04026v1": {
+      "title": "Quantification of Collateral Supply with Local-AIF Dynamic Susceptibility Contrast MRI Predicts Infarct Growth",
+      "url": "http://arxiv.org/abs/2406.04026v1",
+      "authors": "Mira M. Liu, Niloufar Saadat, Steven P. Roth, Marek A. Niekrasz, Mihai Giurcanu, Timothy J. Carroll, Gregory A. Christoforidis",
+      "update_time": "2024-06-06"
+    },
+    "2406.03762v1": {
+      "title": "CORTEX: Large-Scale Brain Simulator Utilizing Indegree Sub-Graph Decomposition on Fugaku Supercomputer",
+      "url": "http://arxiv.org/abs/2406.03762v1",
+      "authors": "Tianxiang Lyu, Mitsuhisa Sato, Shigeki Aoki, Ryutaro Himeno, Zhe Sun",
+      "update_time": "2024-06-06"
+    },
+    "2406.03605v1": {
+      "title": "Towards the Development of a Tendon-Actuated Galvanometer for Endoscopic Surgical Laser Scanning",
+      "url": "http://arxiv.org/abs/2406.03605v1",
+      "authors": "Kent K. Yamamoto, Tanner J. Zachem, Behnam Moradkhani, Yash Chitalia, Patrick J. Codd",
+      "update_time": "2024-06-05"
+    },
+    "2406.03583v1": {
+      "title": "Towards robust radiomics and radiogenomics predictive models for brain tumor characterization",
+      "url": "http://arxiv.org/abs/2406.03583v1",
+      "authors": "Maria Nadeem, Asma Shaheen, Muhammad F. A. Chaudhary, Hassan Mohy-ud-Din",
+      "update_time": "2024-06-05"
+    },
+    "2406.03396v1": {
+      "title": "Noisy Data Visualization using Functional Data Analysis",
+      "url": "http://arxiv.org/abs/2406.03396v1",
+      "authors": "Haozhe Chen, Andres Felipe Duque Correa, Guy Wolf, Kevin R. Moon",
+      "update_time": "2024-06-05"
+    },
+    "2406.03385v1": {
+      "title": "Discrete Autoregressive Switching Processes in Sparse Graphical Modeling of Multivariate Time Series Data",
+      "url": "http://arxiv.org/abs/2406.03385v1",
+      "authors": "Beniamino Hadj-Amar, Aaron M. Bornstein, Michele Guindani, Marina Vannucci",
+      "update_time": "2024-06-05"
+    },
+    "2406.03380v1": {
+      "title": "Maximal information at the edge of stability in excitatory-inhibitory neural populations",
+      "url": "http://arxiv.org/abs/2406.03380v1",
+      "authors": "Giacomo Barzon, Daniel Maria Busiello, Giorgio Nicoletti",
+      "update_time": "2024-06-05"
+    },
+    "2406.03287v1": {
+      "title": "SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms",
+      "url": "http://arxiv.org/abs/2406.03287v1",
+      "authors": "Xingrun Xing, Zheng Zhang, Ziyi Ni, Shitao Xiao, Yiming Ju, Siqi Fan, Yequan Wang, Jiajun Zhang, Guoqi Li",
+      "update_time": "2024-06-05",
+      "code_url": "https://github.com/xingrun-xing/spikelm"
+    }
+  },
+  "EEG": {
+    "2406.03396v1": {
+      "title": "Noisy Data Visualization using Functional Data Analysis",
+      "url": "http://arxiv.org/abs/2406.03396v1",
+      "authors": "Haozhe Chen, Andres Felipe Duque Correa, Guy Wolf, Kevin R. Moon",
+      "update_time": "2024-06-05"
+    },
+    "2406.03115v2": {
+      "title": "GET: A Generative EEG Transformer for Continuous Context-Based Neural Signals",
+      "url": "http://arxiv.org/abs/2406.03115v2",
+      "authors": "Omair Ali, Muhammad Saif-ur-Rehman, Marita Metzler, Tobias Glasmachers, Ioannis Iossifidis, Christian Klaes",
+      "update_time": "2024-06-06"
+    },
+    "2406.02360v1": {
+      "title": "A Practical Approach for Exploring Granger Connectivity in High-Dimensional Networks of Time Series",
+      "url": "http://arxiv.org/abs/2406.02360v1",
+      "authors": "Sipan Aslan, Hernando Ombao",
+      "update_time": "2024-06-04"
+    },
+    "2406.02001v1": {
+      "title": "Higher-order Common Information",
+      "url": "http://arxiv.org/abs/2406.02001v1",
+      "authors": "Jan \u00d8stergaard",
+      "update_time": "2024-06-04"
+    },
+    "2406.01834v1": {
+      "title": "Multi-Task Learning for Arousal and Sleep Stage Detection Using Fully Convolutional Networks",
+      "url": "http://arxiv.org/abs/2406.01834v1",
+      "authors": "Hasan Zan, Abdulnasir Yildiz",
+      "update_time": "2024-06-03"
+    },
+    "2406.01512v1": {
+      "title": "MAD: Multi-Alignment MEG-to-Text Decoding",
+      "url": "http://arxiv.org/abs/2406.01512v1",
+      "authors": "Yiqian Yang, Hyejeong Jo, Yiqun Duan, Qiang Zhang, Jinni Zhou, Won Hee Lee, Renjing Xu, Hui Xiong",
+      "update_time": "2024-06-03",
+      "code_url": "https://github.com/neuspeech/mad-meg2text"
+    },
+    "2406.01162v1": {
+      "title": "Conditional Gumbel-Softmax for constrained feature selection with application to node selection in wireless sensor networks",
+      "url": "http://arxiv.org/abs/2406.01162v1",
+      "authors": "Thomas Strypsteen, Alexander Bertrand",
+      "update_time": "2024-06-03"
+    },
+    "2406.00470v1": {
+      "title": "MI 2 MI: Training Dyad with Collaborative Brain-Computer Interface and Cooperative Motor Imagery Tasks for Better BCI Performance",
+      "url": "http://arxiv.org/abs/2406.00470v1",
+      "authors": "Shiwei Cheng, Jialing Wang",
+      "update_time": "2024-06-01"
+    },
+    "2405.18765v1": {
+      "title": "Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI",
+      "url": "http://arxiv.org/abs/2405.18765v1",
+      "authors": "Wei-Bang Jiang, Li-Ming Zhao, Bao-Liang Lu",
+      "update_time": "2024-05-29",
+      "code_url": "https://github.com/935963004/labram"
+    },
+    "2405.19373v1": {
+      "title": "Multi-modal Mood Reader: Pre-trained Model Empowers Cross-Subject Emotion Recognition",
+      "url": "http://arxiv.org/abs/2405.19373v1",
+      "authors": "Yihang Dong, Xuhang Chen, Yanyan Shen, Michael Kwok-Po Ng, Tao Qian, Shuqiang Wang",
+      "update_time": "2024-05-28"
+    }
+  },
+  "BCI": {
+    "2406.03115v2": {
+      "title": "GET: A Generative EEG Transformer for Continuous Context-Based Neural Signals",
+      "url": "http://arxiv.org/abs/2406.03115v2",
+      "authors": "Omair Ali, Muhammad Saif-ur-Rehman, Marita Metzler, Tobias Glasmachers, Ioannis Iossifidis, Christian Klaes",
+      "update_time": "2024-06-06"
+    },
+    "2406.01512v1": {
+      "title": "MAD: Multi-Alignment MEG-to-Text Decoding",
+      "url": "http://arxiv.org/abs/2406.01512v1",
+      "authors": "Yiqian Yang, Hyejeong Jo, Yiqun Duan, Qiang Zhang, Jinni Zhou, Won Hee Lee, Renjing Xu, Hui Xiong",
+      "update_time": "2024-06-03",
+      "code_url": "https://github.com/neuspeech/mad-meg2text"
+    },
+    "2406.00470v1": {
+      "title": "MI 2 MI: Training Dyad with Collaborative Brain-Computer Interface and Cooperative Motor Imagery Tasks for Better BCI Performance",
+      "url": "http://arxiv.org/abs/2406.00470v1",
+      "authors": "Shiwei Cheng, Jialing Wang",
+      "update_time": "2024-06-01"
+    },
+    "2405.18765v1": {
+      "title": "Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI",
+      "url": "http://arxiv.org/abs/2405.18765v1",
+      "authors": "Wei-Bang Jiang, Li-Ming Zhao, Bao-Liang Lu",
+      "update_time": "2024-05-29",
+      "code_url": "https://github.com/935963004/labram"
+    },
+    "2405.17024v1": {
+      "title": "Beware of Overestimated Decoding Performance Arising from Temporal Autocorrelations in Electroencephalogram Signals",
+      "url": "http://arxiv.org/abs/2405.17024v1",
+      "authors": "Xiran Xu, Bo Wang, Boda Xiao, Yadong Niu, Yiwen Wang, Xihong Wu, Jing Chen",
+      "update_time": "2024-05-27"
+    },
+    "2405.16090v2": {
+      "title": "EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces",
+      "url": "http://arxiv.org/abs/2405.16090v2",
+      "authors": "Xicheng Lou, Xinwei Li, Hongying Meng, Jun Hu, Meili Xu, Yue Zhao, Jiazhang Yang, Zhangyong Li",
+      "update_time": "2024-05-30",
+      "code_url": "https://github.com/xicheng105/eeg-dbnet"
+    },
+    "2405.14994v1": {
+      "title": "Combining Euclidean Alignment and Data Augmentation for BCI decoding",
+      "url": "http://arxiv.org/abs/2405.14994v1",
+      "authors": "Gustavo H. Rodrigues, Bruno Aristimunha, Sylvain Chevallier, Raphael Y. de Camargo",
+      "update_time": "2024-05-23"
+    },
+    "2405.13329v1": {
+      "title": "High Performance P300 Spellers Using GPT2 Word Prediction With Cross-Subject Training",
+      "url": "http://arxiv.org/abs/2405.13329v1",
+      "authors": "Nithin Parthasarathy, James Soetedjo, Saarang Panchavati, Nitya Parthasarathy, Corey Arnold, Nader Pouratian, William Speier",
+      "update_time": "2024-05-22"
+    },
+    "2405.11459v1": {
+      "title": "Du-IN: Discrete units-guided mask modeling for decoding speech from Intracranial Neural signals",
+      "url": "http://arxiv.org/abs/2405.11459v1",
+      "authors": "Hui Zheng, Hai-Teng Wang, Wei-Bang Jiang, Zhong-Tao Chen, Li He, Pei-Yang Lin, Peng-Hu Wei, Guo-Guang Zhao, Yun-Zhe Liu",
+      "update_time": "2024-05-19"
+    },
+    "2405.11163v1": {
+      "title": "Domain Generalization for Zero-calibration BCIs with Knowledge Distillation-based Phase Invariant Feature Extraction",
+      "url": "http://arxiv.org/abs/2405.11163v1",
+      "authors": "Zilin Liang, Zheng Zheng, Weihai Chen, Xinzhi Ma, Zhongcai Pei, Xiantao Sun",
+      "update_time": "2024-05-18",
+      "code_url": "https://github.com/ZilinL/KnIFE"
+    }
+  },
+  "fMRI": {
+    "2406.03385v1": {
+      "title": "Discrete Autoregressive Switching Processes in Sparse Graphical Modeling of Multivariate Time Series Data",
+      "url": "http://arxiv.org/abs/2406.03385v1",
+      "authors": "Beniamino Hadj-Amar, Aaron M. Bornstein, Michele Guindani, Marina Vannucci",
+      "update_time": "2024-06-05"
+    },
+    "2406.02659v1": {
+      "title": "Neural Representations of Dynamic Visual Stimuli",
+      "url": "http://arxiv.org/abs/2406.02659v1",
+      "authors": "Jacob Yeung, Andrew F. Luo, Gabriel Sarch, Margaret M. Henderson, Deva Ramanan, Michael J. Tarr",
+      "update_time": "2024-06-04"
+    },
+    "2406.02014v1": {
+      "title": "Understanding Auditory Evoked Brain Signal via Physics-informed Embedding Network with Multi-Task Transformer",
+      "url": "http://arxiv.org/abs/2406.02014v1",
+      "authors": "Wanli Ma, Xuegang Tang, Jin Gu, Ying Wang, Yuling Xia",
+      "update_time": "2024-06-04"
+    },
+    "2406.01538v1": {
+      "title": "What Are Large Language Models Mapping to in the Brain? A Case Against Over-Reliance on Brain Scores",
+      "url": "http://arxiv.org/abs/2406.01538v1",
+      "authors": "Ebrahim Feghhi, Nima Hadidi, Bryan Song, Idan A. Blank, Jonathan C. Kao",
+      "update_time": "2024-06-03",
+      "code_url": "https://github.com/ebrahimfeghhi/beyond-brainscore"
+    },
+    "2406.00085v1": {
+      "title": "Augmentation-based Unsupervised Cross-Domain Functional MRI Adaptation for Major Depressive Disorder Identification",
+      "url": "http://arxiv.org/abs/2406.00085v1",
+      "authors": "Yunling Ma, Chaojun Zhang, Xiaochuan Wang, Qianqian Wang, Liang Cao, Limei Zhang, Mingxia Liu",
+      "update_time": "2024-05-31"
+    },
+    "2405.18812v1": {
+      "title": "MindSemantix: Deciphering Brain Visual Experiences with a Brain-Language Model",
+      "url": "http://arxiv.org/abs/2405.18812v1",
+      "authors": "Ziqi Ren, Jie Li, Xuetong Xue, Xin Li, Fan Yang, Zhicheng Jiao, Xinbo Gao",
+      "update_time": "2024-05-29"
+    },
+    "2405.18808v1": {
+      "title": "BRACTIVE: A Brain Activation Approach to Human Visual Brain Learning",
+      "url": "http://arxiv.org/abs/2405.18808v1",
+      "authors": "Xuan-Bac Nguyen, Hojin Jang, Xin Li, Samee U. Khan, Pawan Sinha, Khoa Luu",
+      "update_time": "2024-05-29"
+    },
+    "2405.18726v1": {
+      "title": "Reverse the auditory processing pathway: Coarse-to-fine audio reconstruction from fMRI",
+      "url": "http://arxiv.org/abs/2405.18726v1",
+      "authors": "Che Liu, Changde Du, Xiaoyu Chen, Huiguang He",
+      "update_time": "2024-05-29"
+    },
+    "2405.17992v1": {
+      "title": "fMRI predictors based on language models of increasing complexity recover brain left lateralization",
+      "url": "http://arxiv.org/abs/2405.17992v1",
+      "authors": "Laurent Bonnasse-Gahot, Christophe Pallier",
+      "update_time": "2024-05-28"
+    },
+    "2405.17720v1": {
+      "title": "MindFormer: A Transformer Architecture for Multi-Subject Brain Decoding via fMRI",
+      "url": "http://arxiv.org/abs/2405.17720v1",
+      "authors": "Inhwa Han, Jaayeon Lee, Jong Chul Ye",
+      "update_time": "2024-05-28"
+    }
+  },
+  "MEG": {
+    "2406.01512v1": {
+      "title": "MAD: Multi-Alignment MEG-to-Text Decoding",
+      "url": "http://arxiv.org/abs/2406.01512v1",
+      "authors": "Yiqian Yang, Hyejeong Jo, Yiqun Duan, Qiang Zhang, Jinni Zhou, Won Hee Lee, Renjing Xu, Hui Xiong",
+      "update_time": "2024-06-03",
+      "code_url": "https://github.com/neuspeech/mad-meg2text"
+    },
+    "2405.19479v1": {
+      "title": "Participation in the age of foundation models",
+      "url": "http://arxiv.org/abs/2405.19479v1",
+      "authors": "Harini Suresh, Emily Tseng, Meg Young, Mary L. Gray, Emma Pierson, Karen Levy",
+      "update_time": "2024-05-29"
+    },
+    "2405.17698v3": {
+      "title": "BaboonLand Dataset: Tracking Primates in the Wild and Automating Behaviour Recognition from Drone Videos",
+      "url": "http://arxiv.org/abs/2405.17698v3",
+      "authors": "Isla Duporge, Maksim Kholiavchenko, Roi Harel, Scott Wolf, Dan Rubenstein, Meg Crofoot, Tanya Berger-Wolf, Stephen Lee, Julie Barreau, Jenna Kline, Michelle Ramirez, Charles Stewart",
+      "update_time": "2024-06-03"
+    },
+    "2405.13875v1": {
+      "title": "On the Inapproximability of Finding Minimum Monitoring Edge-Geodetic Sets",
+      "url": "http://arxiv.org/abs/2405.13875v1",
+      "authors": "Davide Bil\u00f2, Giordano Colli, Luca Forlizzi, Stefano Leucci",
+      "update_time": "2024-05-22"
+    },
+    "2405.01012v1": {
+      "title": "Correcting Biased Centered Kernel Alignment Measures in Biological and Artificial Neural Networks",
+      "url": "http://arxiv.org/abs/2405.01012v1",
+      "authors": "Alex Murphy, Joel Zylberberg, Alona Fyshe",
+      "update_time": "2024-05-02",
+      "code_url": "https://github.com/Alxmrphi/correcting_CKA_alignment"
+    },
+    "2404.15588v1": {
+      "title": "Minimal Evidence Group Identification for Claim Verification",
+      "url": "http://arxiv.org/abs/2404.15588v1",
+      "authors": "Xiangci Li, Sihao Chen, Rajvi Kapadia, Jessica Ouyang, Fan Zhang",
+      "update_time": "2024-04-24"
+    },
+    "2404.10869v1": {
+      "title": "Alpha rhythm slowing in temporal epilepsy across Scalp EEG and MEG",
+      "url": "http://arxiv.org/abs/2404.10869v1",
+      "authors": "Vytene Janiukstyte, Csaba Kozma, Thomas W. Owen, Umair J Chaudhury, Beate Diehl, Louis Lemieux, John S Duncan, Fergus Rugg-Gunn, Jane de Tisi, Yujiang Wang, Peter N. Taylor",
+      "update_time": "2024-04-16"
+    },
+    "2404.09256v1": {
+      "title": "Foundational GPT Model for MEG",
+      "url": "http://arxiv.org/abs/2404.09256v1",
+      "authors": "Richard Csaky, Mats W. J. van Es, Oiwi Parker Jones, Mark Woolrich",
+      "update_time": "2024-04-14",
+      "code_url": "https://github.com/ricsinaruto/meg-transfer-decoding"
+    },
+    "2404.07839v1": {
+      "title": "RecurrentGemma: Moving Past Transformers for Efficient Open Language Models",
+      "url": "http://arxiv.org/abs/2404.07839v1",
+      "authors": "Aleksandar Botev, Soham De, Samuel L Smith, Anushan Fernando, George-Cristian Muraru, Ruba Haroun, Leonard Berrada, Razvan Pascanu, Pier Giuseppe Sessa, Robert Dadashi, L\u00e9onard Hussenot, Johan Ferret, Sertan Girgin, Olivier Bachem, Alek Andreev, Kathleen Kenealy, Thomas Mesnard, Cassidy Hardin, Surya Bhupatiraju, Shreya Pathak, Laurent Sifre, Morgane Rivi\u00e8re, Mihir Sanjay Kale, Juliette Love, Pouya Tafti, Armand Joulin, Noah Fiedel, Evan Senter, Yutian Chen, Srivatsan Srinivasan, Guillaume Desjardins, David Budden, Arnaud Doucet, Sharad Vikram, Adam Paszke, Trevor Gale, Sebastian Borgeaud, Charlie Chen, Andy Brock, Antonia Paterson, Jenny Brennan, Meg Risdal, Raj Gundluru, Nesh Devanathan, Paul Mooney, Nilay Chauhan, Phil Culliton, Luiz GUStavo Martins, Elisa Bandy, David Huntsperger, Glenn Cameron, Arthur Zucker, Tris Warkentin, Ludovic Peran, Minh Giang, Zoubin Ghahramani, Cl\u00e9ment Farabet, Koray Kavukcuoglu, Demis Hassabis, Raia Hadsell, Yee Whye Teh, Nando de Frietas",
+      "update_time": "2024-04-11",
+      "code_url": "https://github.com/google-deepmind/recurrentgemma"
+    },
+    "2404.01250v1": {
+      "title": "Image Reconstruction from Electroencephalography Using Latent Diffusion",
+      "url": "http://arxiv.org/abs/2404.01250v1",
+      "authors": "Teng Fei, Virginia de Sa",
+      "update_time": "2024-04-01",
+      "code_url": "https://github.com/desa-lab/eeg-image-reconstruction"
+    }
+  },
+  "neuroAI": {
+    "2306.10168v3": {
+      "title": "Beyond Geometry: Comparing the Temporal Structure of Computation in Neural Circuits with Dynamical Similarity Analysis",
+      "url": "http://arxiv.org/abs/2306.10168v3",
+      "authors": "Mitchell Ostrow, Adam Eisen, Leo Kozachkov, Ila Fiete",
+      "update_time": "2023-10-29",
+      "code_url": "https://github.com/mitchellostrow/dsa"
+    },
+    "2305.11275v2": {
+      "title": "Explaining V1 Properties with a Biologically Constrained Deep Learning Architecture",
+      "url": "http://arxiv.org/abs/2305.11275v2",
+      "authors": "Galen Pogoncheff, Jacob Granley, Michael Beyeler",
+      "update_time": "2023-05-25"
+    },
+    "2301.09245v2": {
+      "title": "Towards NeuroAI: Introducing Neuronal Diversity into Artificial Neural Networks",
+      "url": "http://arxiv.org/abs/2301.09245v2",
+      "authors": "Feng-Lei Fan, Yingxin Li, Hanchuan Peng, Tieyong Zeng, Fei Wang",
+      "update_time": "2023-03-11"
+    },
+    "2212.04401v1": {
+      "title": "A Rubric for Human-like Agents and NeuroAI",
+      "url": "http://arxiv.org/abs/2212.04401v1",
+      "authors": "Ida Momennejad",
+      "update_time": "2022-12-08"
+    },
+    "2210.08340v3": {
+      "title": "Toward Next-Generation Artificial Intelligence: Catalyzing the NeuroAI Revolution",
+      "url": "http://arxiv.org/abs/2210.08340v3",
+      "authors": "Anthony Zador, Sean Escola, Blake Richards, Bence \u00d6lveczky, Yoshua Bengio, Kwabena Boahen, Matthew Botvinick, Dmitri Chklovskii, Anne Churchland, Claudia Clopath, James DiCarlo, Surya Ganguli, Jeff Hawkins, Konrad Koerding, Alexei Koulakov, Yann LeCun, Timothy Lillicrap, Adam Marblestone, Bruno Olshausen, Alexandre Pouget, Cristina Savin, Terrence Sejnowski, Eero Simoncelli, Sara Solla, David Sussillo, Andreas S. Tolias, Doris Tsao",
+      "update_time": "2023-02-22"
+    },
+    "2112.15459v3": {
+      "title": "Social Neuro AI: Social Interaction as the \"dark matter\" of AI",
+      "url": "http://arxiv.org/abs/2112.15459v3",
+      "authors": "Samuele Bolotta, Guillaume Dumas",
+      "update_time": "2022-04-11"
+    },
+    "2011.07464v2": {
+      "title": "Predictive Coding, Variational Autoencoders, and Biological Connections",
+      "url": "http://arxiv.org/abs/2011.07464v2",
+      "authors": "Joseph Marino",
+      "update_time": "2021-10-23"
+    },
+    "1909.02603v2": {
+      "title": "Additive function approximation in the brain",
+      "url": "http://arxiv.org/abs/1909.02603v2",
+      "authors": "Kameron Decker Harris",
+      "update_time": "2019-09-13",
+      "code_url": "https://github.com/kharris/sparse-random-features"
+    }
+  },
+  "medical": {
+    "2406.04026v1": {
+      "title": "Quantification of Collateral Supply with Local-AIF Dynamic Susceptibility Contrast MRI Predicts Infarct Growth",
+      "url": "http://arxiv.org/abs/2406.04026v1",
+      "authors": "Mira M. Liu, Niloufar Saadat, Steven P. Roth, Marek A. Niekrasz, Mihai Giurcanu, Timothy J. Carroll, Gregory A. Christoforidis",
+      "update_time": "2024-06-06"
+    },
+    "2406.03986v1": {
+      "title": "On The Persona-based Summarization of Domain-Specific Documents",
+      "url": "http://arxiv.org/abs/2406.03986v1",
+      "authors": "Ankan Mullick, Sombit Bose, Rounak Saha, Ayan Kumar Bhowmick, Pawan Goyal, Niloy Ganguly, Prasenjit Dey, Ravi Kokku",
+      "update_time": "2024-06-06",
+      "code_url": "https://github.com/ankan2/persona-healthcare"
+    },
+    "2406.03962v1": {
+      "title": "3D Ultrasound Shear Wave Elastography for Musculoskeletal Tissue Assessment Under Compressive Load: A Feasibility Study",
+      "url": "http://arxiv.org/abs/2406.03962v1",
+      "authors": "Bryan J. Ranger, Kevin M. Moerman, Micha Feigin, Hugh M. Herr, Brian W. Anthony",
+      "update_time": "2024-06-06"
+    },
+    "2406.03949v1": {
+      "title": "UltraMedical: Building Specialized Generalists in Biomedicine",
+      "url": "http://arxiv.org/abs/2406.03949v1",
+      "authors": "Kaiyan Zhang, Sihang Zeng, Ermo Hua, Ning Ding, Zhang-Ren Chen, Zhiyuan Ma, Haoxin Li, Ganqu Cui, Biqing Qi, Xuekai Zhu, Xingtai Lv, Hu Jinfang, Zhiyuan Liu, Bowen Zhou",
+      "update_time": "2024-06-06",
+      "code_url": "https://github.com/tsinghuac3i/ultramedical"
+    },
+    "2406.03902v1": {
+      "title": "C^2RV: Cross-Regional and Cross-View Learning for Sparse-View CBCT Reconstruction",
+      "url": "http://arxiv.org/abs/2406.03902v1",
+      "authors": "Yiqun Lin, Jiewen Yang, Hualiang Wang, Xinpeng Ding, Wei Zhao, Xiaomeng Li",
+      "update_time": "2024-06-06",
+      "code_url": "https://github.com/xmed-lab/C2RV-CBCT"
+    },
+    "2406.03901v1": {
+      "title": "Polyp and Surgical Instrument Segmentation with Double Encoder-Decoder Networks",
+      "url": "http://arxiv.org/abs/2406.03901v1",
+      "authors": "Adrian Galdran",
+      "update_time": "2024-06-06"
+    },
+    "2406.03855v1": {
+      "title": "Performance of large language models in numerical vs. semantic medical knowledge: Benchmarking on evidence-based Q&As",
+      "url": "http://arxiv.org/abs/2406.03855v1",
+      "authors": "Eden Avnat, Michal Levy, Daniel Herstain, Elia Yanko, Daniel Ben Joya, Michal Tzuchman Katz, Dafna Eshel, Sahar Laros, Yael Dagan, Shahar Barami, Joseph Mermelstein, Shahar Ovadia, Noam Shomron, Varda Shalev, Raja-Elie E. Abdulnour",
+      "update_time": "2024-06-06"
+    },
+    "2406.03823v1": {
+      "title": "Views about ChatGPT: Are human decision making and human learning necessary?",
+      "url": "http://arxiv.org/abs/2406.03823v1",
+      "authors": "Eiji Yamamura, Fumio Ohtake",
+      "update_time": "2024-06-06"
+    },
+    "2406.03798v1": {
+      "title": "Optical biomarker of metabolism for breast tumor diagnosis: Insights from subcellular dynamics",
+      "url": "http://arxiv.org/abs/2406.03798v1",
+      "authors": "Zichen Yin, Shuwei Zhang, Bin He, Houpu Yang, Zhengyu Chen, Zhangwei Hu, Yejiong Shi, Ruizhi Xue, Panqi Yang, Yuzhe Ying, Chengming Wang, Shu Wang, Ping Xue",
+      "update_time": "2024-06-06"
+    },
+    "2406.03712v1": {
+      "title": "A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions",
+      "url": "http://arxiv.org/abs/2406.03712v1",
+      "authors": "Lei Liu, Xiaoyan Yang, Junchi Lei, Xiaoyang Liu, Yue Shen, Zhiqiang Zhang, Peng Wei, Jinjie Gu, Zhixuan Chu, Zhan Qin, Kui Ren",
+      "update_time": "2024-06-06"
+    }
+  }
+}
