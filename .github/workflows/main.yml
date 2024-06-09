@@ -1,0 +1,38 @@
+# This is a basic workflow to help you get started with Actions
+name: Update Arxiv Papers
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天凌晨 0 点运行
+  workflow_dispatch:
+
+jobs:
+  update-papers:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install arxiv requests pyyaml
+
+    - name: Run daily_arxiv.py
+      run: python daily_arxiv.py
+
+    - name: Commit changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add README.md data_store/
+        git commit -m "Update arXiv papers"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

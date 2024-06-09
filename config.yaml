@@ -1,0 +1,12 @@
+# keywords to search
+keywords:
+  - "Brain"
+  - "EEG"
+  - "BCI"
+  - "fMRI"
+  - "MEG"
+  - "neuroAI"
+  - "medical"
+max_results: 10
+data_store_path: "data_store"
+readme_path: "README.md"
