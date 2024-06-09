@@ -48,15 +48,14 @@ def json_to_md(json_file, md_file):
     with open(json_file, 'r') as f:
         data = json.load(f)
     with open(md_file, 'w') as f:
-        f.write(f"## Updated on {datetime.date.today()}\n\n")
+        f.write(f"<h2 style='font-family:Arial; font-size:20px;'>Updated on {datetime.date.today()}</h2>\n\n")
         for topic, papers in data.items():
-            f.write(f"### {topic}\n\n")
-            f.write("| Publish Date | Title | Authors | URL | Code URL |\n")
-            f.write("|--------------|-------|---------|-----|----------|\n")
+            f.write(f"<h3 style='font-family:Arial; font-size:18px;'>{topic}</h3>\n\n")
+            f.write("<table style='font-family:Arial; font-size:14px;'>\n")
+            f.write("<tr><th>Publish Date</th><th>Title</th><th>Authors</th><th>URL</th></tr>\n")
             for paper_id, details in papers.items():
-                code_url = details.get('code_url', 'N/A')  # 使用 get 方法，提供默认值
-                f.write(f"| {details['update_time']} | {details['title']} | {details['authors']} | [Link]({details['url']}) | [Code]({code_url}) |\n")
-            f.write("\n")
+                f.write(f"<tr><td>{details['update_time']}</td><td>{details['title']}</td><td>{details['authors']}</td><td><a href='{details['url']}'>Link</a></td></tr>\n")
+            f.write("</table>\n\n")
 
 def main():
     config = load_config()
