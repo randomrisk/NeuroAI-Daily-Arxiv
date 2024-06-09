@@ -54,7 +54,8 @@ def json_to_md(json_file, md_file):
             f.write("| Publish Date | Title | Authors | URL | Code URL |\n")
             f.write("|--------------|-------|---------|-----|----------|\n")
             for paper_id, details in papers.items():
-                f.write(f"| {details['update_time']} | {details['title']} | {details['authors']} | [Link]({details['url']}) | [Code]({details['code_url']}) |\n")
+                code_url = details.get('code_url', 'N/A')  # 使用 get 方法，提供默认值
+                f.write(f"| {details['update_time']} | {details['title']} | {details['authors']} | [Link]({details['url']}) | [Code]({code_url}) |\n")
             f.write("\n")
 
 def main():
