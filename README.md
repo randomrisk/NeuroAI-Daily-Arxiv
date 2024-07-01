@@ -1,4 +1,4 @@
-<h2 style='font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: #4a4a4a;'>Updated on 2024-06-30</h2>
+<h2 style='font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: #4a4a4a;'>Updated on 2024-07-01</h2>
 
 <h3 style='font-family: Helvetica, Arial, sans-serif; font-size: 14px; color: #2a7ae2;'>Brain</h3>
 
@@ -14,10 +14,10 @@
 </thead>
 <tbody>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
-<td style='padding: 8px;'>2024-06-27</td>
+<td style='padding: 8px;'>2024-06-28</td>
 <td style='padding: 8px;'>SimTxtSeg: Weakly-Supervised Medical Image Segmentation with Simple Text Cues</td>
 <td style='padding: 6px;'>Yuxin Xie, Tao Zhou, Yi Zhou, Geng Chen</td>
-<td style='padding: 8px;'><a href='http://arxiv.org/abs/2406.19364v1' style='color: #1a73e8;'>Link</a></td>
+<td style='padding: 8px;'><a href='http://arxiv.org/abs/2406.19364v2' style='color: #1a73e8;'>Link</a></td>
 <td style='padding: 4px;'>Weakly-supervised medical image segmentation is a challenging task that aims to reduce the annotation cost while keep the segmentation performance. In this paper, we present a novel framework, SimTxtSeg, that leverages simple text cues to generate high-quality pseudo-labels and study the cross-modal fusion in training segmentation models, simultaneously. Our contribution consists of two key components: an effective Textual-to-Visual Cue Converter that produces visual prompts from text prompts on medical images, and a text-guided segmentation model with Text-Vision Hybrid Attention that fuses text and image features. We evaluate our framework on two medical image segmentation tasks: colonic polyp segmentation and MRI brain tumor segmentation, and achieve consistent state-of-the-art performance.</td>
 </tr>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
@@ -516,10 +516,10 @@
 </thead>
 <tbody>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
-<td style='padding: 8px;'>2024-06-27</td>
+<td style='padding: 8px;'>2024-06-28</td>
 <td style='padding: 8px;'>SimTxtSeg: Weakly-Supervised Medical Image Segmentation with Simple Text Cues</td>
 <td style='padding: 6px;'>Yuxin Xie, Tao Zhou, Yi Zhou, Geng Chen</td>
-<td style='padding: 8px;'><a href='http://arxiv.org/abs/2406.19364v1' style='color: #1a73e8;'>Link</a></td>
+<td style='padding: 8px;'><a href='http://arxiv.org/abs/2406.19364v2' style='color: #1a73e8;'>Link</a></td>
 <td style='padding: 4px;'>Weakly-supervised medical image segmentation is a challenging task that aims to reduce the annotation cost while keep the segmentation performance. In this paper, we present a novel framework, SimTxtSeg, that leverages simple text cues to generate high-quality pseudo-labels and study the cross-modal fusion in training segmentation models, simultaneously. Our contribution consists of two key components: an effective Textual-to-Visual Cue Converter that produces visual prompts from text prompts on medical images, and a text-guided segmentation model with Text-Vision Hybrid Attention that fuses text and image features. We evaluate our framework on two medical image segmentation tasks: colonic polyp segmentation and MRI brain tumor segmentation, and achieve consistent state-of-the-art performance.</td>
 </tr>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
