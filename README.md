@@ -1,4 +1,4 @@
-<h2 style='font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: #4a4a4a;'>Updated on 2024-10-27</h2>
+<h2 style='font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: #4a4a4a;'>Updated on 2024-10-28</h2>
 
 <h3 style='font-family: Helvetica, Arial, sans-serif; font-size: 14px; color: #2a7ae2;'>Brain</h3>
 
@@ -28,10 +28,10 @@
 <td style='padding: 4px;'>We introduce a dynamic model for complexity control (CC) between systems, represented by time series characterized by different temporal complexity measures, as indicated by their respective inverse power law (IPL) indices. Given the apparent straightforward character of the model and the generality of the result, we formulate a hypothesis based on the closeness of the scaling measures of the model to the empirical complexity measures of the human brain. CC is a proper model for describing the recent experimental results, such as the rehabilitation in walking arm in arm and the complexity synchronization effect. The CC effect can lead to the design of mutual-adaptive signals to restore the misaligned complexity of maladjusted organ networks or, on the other hand, to disrupt the complexity of a malicious system and lower its intelligent behavior.</td>
 </tr>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
-<td style='padding: 8px;'>2024-10-24</td>
+<td style='padding: 8px;'>2024-10-25</td>
 <td style='padding: 8px;'>Transferring Knowledge from High-Quality to Low-Quality MRI for Adult Glioma Diagnosis</td>
 <td style='padding: 6px;'>Yanguang Zhao, Long Bai, Zhaoxi Zhang, Yanan Wu, Mobarakol Islam, Hongliang Ren</td>
-<td style='padding: 8px;'><a href='http://arxiv.org/abs/2410.18698v1' style='color: #1a73e8;'>Link</a></td>
+<td style='padding: 8px;'><a href='http://arxiv.org/abs/2410.18698v2' style='color: #1a73e8;'>Link</a></td>
 <td style='padding: 4px;'>Glioma, a common and deadly brain tumor, requires early diagnosis for improved prognosis. However, low-quality Magnetic Resonance Imaging (MRI) technology in Sub-Saharan Africa (SSA) hinders accurate diagnosis. This paper presents our work in the BraTS Challenge on SSA Adult Glioma. We adopt the model from the BraTS-GLI 2021 winning solution and utilize it with three training strategies: (1) initially training on the BraTS-GLI 2021 dataset with fine-tuning on the BraTS-Africa dataset, (2) training solely on the BraTS-Africa dataset, and (3) training solely on the BraTS-Africa dataset with 2x super-resolution enhancement. Results show that initial training on the BraTS-GLI 2021 dataset followed by fine-tuning on the BraTS-Africa dataset has yielded the best results. This suggests the importance of high-quality datasets in providing prior knowledge during training. Our top-performing model achieves Dice scores of 0.882, 0.840, and 0.926, and Hausdorff Distance (95%) scores of 15.324, 37.518, and 13.971 for enhancing tumor, tumor core, and whole tumor, respectively, in the validation phase. In the final phase of the competition, our approach successfully secured second place overall, reflecting the strength and effectiveness of our model and training strategies. Our approach provides insights into improving glioma diagnosis in SSA, showing the potential of deep learning in resource-limited settings and the importance of transfer learning from high-quality datasets.</td>
 </tr>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
