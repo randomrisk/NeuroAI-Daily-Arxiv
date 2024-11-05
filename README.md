@@ -1,4 +1,4 @@
-<h2 style='font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: #4a4a4a;'>Updated on 2024-11-04</h2>
+<h2 style='font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: #4a4a4a;'>Updated on 2024-11-05</h2>
 
 <h3 style='font-family: Helvetica, Arial, sans-serif; font-size: 14px; color: #2a7ae2;'>Brain</h3>
 
@@ -156,10 +156,10 @@
 <td style='padding: 4px;'>The analysis of neural power spectra plays a crucial role in understanding brain function and dysfunction. While recent efforts have led to the development of methods for decomposing spectral data, challenges remain in performing statistical analysis and group-level comparisons. Here, we introduce Bayesian Spectral Decomposition (BSD), a Bayesian framework for analysing neural spectral power. BSD allows for the specification, inversion, comparison, and analysis of parametric models of neural spectra, addressing limitations of existing methods. We first establish the face validity of BSD on simulated data and show how it outperforms an established method (\fooof{}) for peak detection on artificial spectral data. We then demonstrate the efficacy of BSD on a group-level study of EEG spectra in 204 healthy subjects from the LEMON dataset. Our results not only highlight the effectiveness of BSD in model selection and parameter estimation, but also illustrate how BSD enables straightforward group-level regression of the effect of continuous covariates such as age. By using Bayesian inference techniques, BSD provides a robust framework for studying neural spectral data and their relationship to brain function and dysfunction.</td>
 </tr>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
-<td style='padding: 8px;'>2024-10-26</td>
+<td style='padding: 8px;'>2024-11-01</td>
 <td style='padding: 8px;'>A Multi-Modal Non-Invasive Deep Learning Framework for Progressive Prediction of Seizures</td>
 <td style='padding: 6px;'>Ali Saeizadeh, Douglas Schonholtz, Joseph S. Neimat, Pedram Johari, Tommaso Melodia</td>
-<td style='padding: 8px;'><a href='http://arxiv.org/abs/2410.20066v1' style='color: #1a73e8;'>Link</a></td>
+<td style='padding: 8px;'><a href='http://arxiv.org/abs/2410.20066v2' style='color: #1a73e8;'>Link</a></td>
 <td style='padding: 4px;'>This paper introduces an innovative framework designed for progressive (granular in time to onset) prediction of seizures through the utilization of a Deep Learning (DL) methodology based on non-invasive multi-modal sensor networks. Epilepsy, a debilitating neurological condition, affects an estimated 65 million individuals globally, with a substantial proportion facing drug-resistant epilepsy despite pharmacological interventions. To address this challenge, we advocate for predictive systems that provide timely alerts to individuals at risk, enabling them to take precautionary actions. Our framework employs advanced DL techniques and uses personalized data from a network of non-invasive electroencephalogram (EEG) and electrocardiogram (ECG) sensors, thereby enhancing prediction accuracy. The algorithms are optimized for real-time processing on edge devices, mitigating privacy concerns and minimizing data transmission overhead inherent in cloud-based solutions, ultimately preserving battery energy. Additionally, our system predicts the countdown time to seizures (with 15-minute intervals up to an hour prior to the onset), offering critical lead time for preventive actions. Our multi-modal model achieves 95% sensitivity, 98% specificity, and 97% accuracy, averaged among 29 patients.</td>
 </tr>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
