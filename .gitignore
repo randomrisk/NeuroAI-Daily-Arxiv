@@ -1,5 +1,5 @@
 .git
 **/__pycache__
 **/*.pyc
-text_analysis.py
+#text_analysis.py
 config.json
