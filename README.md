@@ -1,4 +1,4 @@
-<h2 style='font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: #4a4a4a;'>Updated on 2025-01-03</h2>
+<h2 style='font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: #4a4a4a;'>Updated on 2025-01-04</h2>
 
 <h3 style='font-family: Helvetica, Arial, sans-serif; font-size: 14px; color: #2a7ae2;'>Brain</h3>
 
@@ -566,13 +566,6 @@
 </tr>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
 <td style='padding: 8px;'>2024-12-30</td>
-<td style='padding: 8px;'>Identifying average causal effect in regression discontinuity design with auxiliary data</td>
-<td style='padding: 6px;'>Xinqin Feng, Wenjie Hu, Pu Yang, Tingyu Li, Xiao-Hua Zhou</td>
-<td style='padding: 8px;'><a href='http://arxiv.org/abs/2412.20840v1' style='color: #1a73e8;'>Link</a></td>
-<td style='padding: 4px;'>Regression discontinuity designs are widely used when treatment assignment is determined by whether a running variable exceeds a predefined threshold. However, most research focuses on estimating local causal effects at the threshold, leaving the challenge of identifying treatment effects away from the cutoff largely unaddressed. The primary difficulty in this context is that the counterfactual outcome under the alternative treatment status is unobservable.In this paper, we introduce a novel framework for identifying the global average causal effect in regression discontinuity designs.Our approach integrates a latent variable and an additional data structure alongside the traditional regression discontinuity design setup. This enhanced framework allows us to extend the analysis beyond the threshold, providing a more comprehensive understanding of treatment effects.We develop asymptotically valid estimation and inference procedures under this framework, ensuring the robustness of our findings. To demonstrate the practical application of our method, we assess the causal effects of vitamin A supplementation on the severity of autism spectrum disorders in children.Our approach offers a significant advancement in the analysis of regression discontinuity designs, enabling researchers to estimate causal effects across a broader range of values and providing more actionable insights in policy and medical research.</td>
-</tr>
-<tr style='border-bottom: 1px solid #d4d4d4;'>
-<td style='padding: 8px;'>2024-12-30</td>
 <td style='padding: 8px;'>Residual Connection Networks in Medical Image Processing: Exploration of ResUnet++ Model Driven by Human Computer Interaction</td>
 <td style='padding: 6px;'>Peixin Dai, Jingsi Zhang, Zhitao Shu</td>
 <td style='padding: 8px;'><a href='http://arxiv.org/abs/2412.20709v1' style='color: #1a73e8;'>Link</a></td>
@@ -598,6 +591,13 @@
 <td style='padding: 6px;'>Ashish Seth, Dinesh Manocha, Chirag Agarwal</td>
 <td style='padding: 8px;'><a href='http://arxiv.org/abs/2412.20622v1' style='color: #1a73e8;'>Link</a></td>
 <td style='padding: 4px;'>Large Vision-Language Models (LVLMs) have demonstrated remarkable performance in performing complex multimodal tasks. However, they are still plagued by object hallucination: the misidentification or misclassification of objects present in images. To this end, we propose HALLUCINOGEN, a novel visual question answering (VQA) object hallucination attack benchmark that utilizes diverse contextual reasoning prompts to evaluate object hallucination in state-of-the-art LVLMs. We design a series of contextual reasoning hallucination prompts to evaluate LVLMs' ability to accurately identify objects in a target image while asking them to perform diverse visual-language tasks such as identifying, locating or performing visual reasoning around specific objects. Further, we extend our benchmark to high-stakes medical applications and introduce MED-HALLUCINOGEN, hallucination attacks tailored to the biomedical domain, and evaluate the hallucination performance of LVLMs on medical images, a critical area where precision is crucial. Finally, we conduct extensive evaluations of eight LVLMs and two hallucination mitigation strategies across multiple datasets to show that current generic and medical LVLMs remain susceptible to hallucination attacks.</td>
+</tr>
+<tr style='border-bottom: 1px solid #d4d4d4;'>
+<td style='padding: 8px;'>2024-12-29</td>
+<td style='padding: 8px;'>Conformable Convolution for Topologically Aware Learning of Complex Anatomical Structures</td>
+<td style='padding: 6px;'>Yousef Yeganeh, Rui Xiao, Goktug Guvercin, Nassir Navab, Azade Farshad</td>
+<td style='padding: 8px;'><a href='http://arxiv.org/abs/2412.20608v1' style='color: #1a73e8;'>Link</a></td>
+<td style='padding: 4px;'>While conventional computer vision emphasizes pixel-level and feature-based objectives, medical image analysis of intricate biological structures necessitates explicit representation of their complex topological properties. Despite their successes, deep learning models often struggle to accurately capture the connectivity and continuity of fine, sometimes pixel-thin, yet critical structures due to their reliance on implicit learning from data. Such shortcomings can significantly impact the reliability of analysis results and hinder clinical decision-making. To address this challenge, we introduce Conformable Convolution, a novel convolutional layer designed to explicitly enforce topological consistency. Conformable Convolution learns adaptive kernel offsets that preferentially focus on regions of high topological significance within an image. This prioritization is guided by our proposed Topological Posterior Generator (TPG) module, which leverages persistent homology. The TPG module identifies key topological features and guides the convolutional layers by applying persistent homology to feature maps transformed into cubical complexes. Our proposed modules are architecture-agnostic, enabling them to be integrated seamlessly into various architectures. We showcase the effectiveness of our framework in the segmentation task, where preserving the interconnectedness of structures is critical. Experimental results on three diverse datasets demonstrate that our framework effectively preserves the topology in the segmentation downstream task, both quantitatively and qualitatively.</td>
 </tr>
 </tbody>
 </table>
