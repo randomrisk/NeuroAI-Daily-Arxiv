@@ -1,4 +1,4 @@
-<h2 style='font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: #4a4a4a;'>Updated on 2025-01-12</h2>
+<h2 style='font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: #4a4a4a;'>Updated on 2025-01-13</h2>
 
 <h3 style='font-family: Helvetica, Arial, sans-serif; font-size: 14px; color: #2a7ae2;'>Brain</h3>
 
@@ -114,10 +114,10 @@
 <td style='padding: 4px;'>Following the recent interest in applying the Hyperdimensional Computing paradigm in medical context to power up the performance of general machine learning applied to biomedical data, this study represents the first attempt at employing such techniques to solve the problem of classification of Attention Deficit Hyperactivity Disorder using electroencephalogram signals. Making use of a spatio-temporal encoder, and leveraging the properties of HDC, the proposed model achieves an accuracy of 88.9%, outperforming traditional Deep Neural Networks benchmark models. The core of this research is not only to enhance the classification accuracy of the model but also to explore its efficiency in terms of the required training data: a critical finding of the study is the identification of the minimum number of patients needed in the training set to achieve a sufficient level of accuracy. To this end, the accuracy of our model trained with only $7$ of the $79$ patients is comparable to the one from benchmarks trained on the full dataset. This finding underscores the model's efficiency and its potential for quick and precise ADHD diagnosis in medical settings where large datasets are typically unattainable.</td>
 </tr>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
-<td style='padding: 8px;'>2025-01-09</td>
+<td style='padding: 8px;'>2025-01-10</td>
 <td style='padding: 8px;'>Targeted Adversarial Denoising Autoencoders (TADA) for Neural Time Series Filtration</td>
 <td style='padding: 6px;'>Benjamin J. Choi, Griffin Milsap, Clara A. Scholl, Francesco Tenore, Mattson Ogg</td>
-<td style='padding: 8px;'><a href='http://arxiv.org/abs/2501.04967v1' style='color: #1a73e8;'>Link</a></td>
+<td style='padding: 8px;'><a href='http://arxiv.org/abs/2501.04967v2' style='color: #1a73e8;'>Link</a></td>
 <td style='padding: 4px;'>Current machine learning (ML)-based algorithms for filtering electroencephalography (EEG) time series data face challenges related to cumbersome training times, regularization, and accurate reconstruction. To address these shortcomings, we present an ML filtration algorithm driven by a logistic covariance-targeted adversarial denoising autoencoder (TADA). We hypothesize that the expressivity of a targeted, correlation-driven convolutional autoencoder will enable effective time series filtration while minimizing compute requirements (e.g., runtime, model size). Furthermore, we expect that adversarial training with covariance rescaling will minimize signal degradation. To test this hypothesis, a TADA system prototype was trained and evaluated on the task of removing electromyographic (EMG) noise from EEG data in the EEGdenoiseNet dataset, which includes EMG and EEG data from 67 subjects. The TADA filter surpasses conventional signal filtration algorithms across quantitative metrics (Correlation Coefficient, Temporal RRMSE, Spectral RRMSE), and performs competitively against other deep learning architectures at a reduced model size of less than 400,000 trainable parameters. Further experimentation will be necessary to assess the viability of TADA on a wider range of deployment cases.</td>
 </tr>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
