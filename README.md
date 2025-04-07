@@ -1,4 +1,4 @@
-<h2 style='font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: #4a4a4a;'>Updated on 2025-04-06</h2>
+<h2 style='font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: #4a4a4a;'>Updated on 2025-04-07</h2>
 
 <h3 style='font-family: Helvetica, Arial, sans-serif; font-size: 14px; color: #2a7ae2;'>Brain</h3>
 
@@ -21,10 +21,10 @@
 <td style='padding: 4px;'>Conventional Artificial Intelligence (AI) systems are running into limitations in terms of training time and energy. Following the principles of the human brain, spiking neural networks trained with unsupervised learning offer a faster, more energy-efficient alternative. However, the dynamics of spiking, learning, and forgetting become more complicated in such schemes. Here we study a superconducting electronics implementation of a learning synapse and experimentally measure its spiking dynamics. By pulsing the system with a superconducting neuron, we show that a superconducting inductor can dynamically hold the synaptic weight with updates due to learning and forgetting. Learning can be stopped by slowing down the arrival time of the post-synaptic pulse, in accordance with the Spike-Timing Dependent Plasticity paradigm. We find excellent agreement with circuit simulations, and by fitting the turn-on of the pulsing frequency, we confirm a learning time of 16.1 +/- 1 ps. The power dissipation in the learning part of the synapse is less than one attojoule per learning event. This leads to the possibility of an extremely fast and energy-efficient learning processor.</td>
 </tr>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
-<td style='padding: 8px;'>2025-04-03</td>
+<td style='padding: 8px;'>2025-04-04</td>
 <td style='padding: 8px;'>GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration</td>
 <td style='padding: 6px;'>Yuhang Li, Ruokai Yin, Donghyun Lee, Shiting Xiao, Priyadarshini Panda</td>
-<td style='padding: 8px;'><a href='http://arxiv.org/abs/2504.02692v1' style='color: #1a73e8;'>Link</a></td>
+<td style='padding: 8px;'><a href='http://arxiv.org/abs/2504.02692v2' style='color: #1a73e8;'>Link</a></td>
 <td style='padding: 4px;'>We introduce GPTQv2, a novel finetuning-free quantization method for compressing large-scale transformer architectures. Unlike the previous GPTQ method, which independently calibrates each layer, we always match the quantized layer's output to the exact output in the full-precision model, resulting in a scheme that we call asymmetric calibration. Such a scheme can effectively reduce the quantization error accumulated in previous layers. We analyze this problem using optimal brain compression to derive a close-formed solution. The new solution explicitly minimizes the quantization error as well as the accumulated asymmetry error. Furthermore, we utilize various techniques to parallelize the solution calculation, including channel parallelization, neuron decomposition, and Cholesky reformulation for matrix fusion. As a result, GPTQv2 is easy to implement, simply using 20 more lines of code than GPTQ but improving its performance under low-bit quantization. Remarkably, on a single GPU, we quantize a 405B language transformer as well as EVA-02 the rank first vision transformer that achieves 90% pretraining Imagenet accuracy. Code is available at github.com/Intelligent-Computing-Lab-Yale/GPTQv2.</td>
 </tr>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
