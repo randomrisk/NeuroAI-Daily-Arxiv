@@ -1,4 +1,4 @@
-<h2 style='font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: #4a4a4a;'>Updated on 2025-04-13</h2>
+<h2 style='font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: #4a4a4a;'>Updated on 2025-04-14</h2>
 
 <h3 style='font-family: Helvetica, Arial, sans-serif; font-size: 14px; color: #2a7ae2;'>Brain</h3>
 
@@ -407,10 +407,10 @@
 <td style='padding: 4px;'>Humans effortlessly communicate their thoughts through intricate sequences of motor actions. Yet, the neural processes that coordinate language production remain largely unknown, in part because speech artifacts limit the use of neuroimaging. To elucidate the unfolding of language production in the brain, we investigate with magnetoencephalography (MEG) and electroencephalography (EEG) the neurophysiological activity of 35 skilled typists, while they typed sentences on a keyboard. This approach confirms the hierarchical predictions of linguistic theories: the neural activity preceding the production of each word is marked by the sequential rise and fall of context-, word-, syllable-, and letter-level representations. Remarkably, each of these neural representations is maintained over long time periods within each level of the language hierarchy. This phenomenon results in a superposition of successive representations that is supported by a hierarchy of dynamic neural codes. Overall, these findings provide a precise computational breakdown of the neural dynamics that coordinate the production of language in the human brain.</td>
 </tr>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
-<td style='padding: 8px;'>2025-03-31</td>
+<td style='padding: 8px;'>2025-04-10</td>
 <td style='padding: 8px;'>Estimated Roadway Segment Traffic Data by Vehicle Class for the United States: A Machine Learning Approach</td>
 <td style='padding: 6px;'>Brittany Antonczak, Meg Fay, Aviral Chawla, Gregory Rowangould</td>
-<td style='padding: 8px;'><a href='http://arxiv.org/abs/2502.05161v2' style='color: #1a73e8;'>Link</a></td>
+<td style='padding: 8px;'><a href='http://arxiv.org/abs/2502.05161v3' style='color: #1a73e8;'>Link</a></td>
 <td style='padding: 4px;'>The Highway Performance Monitoring System, managed by the Federal Highway Administration, provides essential data on average annual daily traffic across U.S. roadways, but it has limited representation of medium- and heavy-duty vehicles on non-interstate roads. This gap limits research and policy analysis on the impacts of truck traffic, especially concerning air quality and public health. To address this, we use random forest regression to estimate medium- and heavy-duty vehicle traffic volumes in areas with sparse data. This results in a more comprehensive dataset, which enables the estimation of traffic density at the census block level as a proxy for traffic-related air pollution exposure. Our high-resolution spatial data products, rigorously validated, provide a more accurate representation of truck traffic and its environmental and health impacts. These datasets are valuable for transportation planning, public health research, and policy decisions aimed at mitigating the effects of truck traffic on vulnerable communities exposed to air pollution.</td>
 </tr>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
