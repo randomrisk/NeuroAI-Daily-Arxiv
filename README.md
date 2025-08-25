@@ -1,4 +1,4 @@
-<h2 style='font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: #4a4a4a;'>Updated on 2025-08-24</h2>
+<h2 style='font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: #4a4a4a;'>Updated on 2025-08-25</h2>
 
 <h3 style='font-family: Helvetica, Arial, sans-serif; font-size: 14px; color: #2a7ae2;'>Brain</h3>
 
@@ -100,10 +100,10 @@
 </thead>
 <tbody>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
-<td style='padding: 8px;'>2025-08-21</td>
+<td style='padding: 8px;'>2025-08-22</td>
 <td style='padding: 8px;'>Foundation Models for Cross-Domain EEG Analysis Application: A Survey</td>
 <td style='padding: 6px;'>Hongqi Li, Yitong Chen, Yujuan Wang, Weihang Ni, Haodong Zhang</td>
-<td style='padding: 8px;'><a href='http://arxiv.org/abs/2508.15716v1' style='color: #1a73e8;'>Link</a></td>
+<td style='padding: 8px;'><a href='http://arxiv.org/abs/2508.15716v2' style='color: #1a73e8;'>Link</a></td>
 <td style='padding: 4px;'>Electroencephalography (EEG) analysis stands at the forefront of neuroscience and artificial intelligence research, where foundation models are reshaping the traditional EEG analysis paradigm by leveraging their powerful representational capacity and cross-modal generalization. However, the rapid proliferation of these techniques has led to a fragmented research landscape, characterized by diverse model roles, inconsistent architectures, and a lack of systematic categorization. To bridge this gap, this study presents the first comprehensive modality-oriented taxonomy for foundation models in EEG analysis, systematically organizing research advances based on output modalities of the native EEG decoding, EEG-text, EEG-vision, EEG-audio, and broader multimodal frameworks. We rigorously analyze each category's research ideas, theoretical foundations, and architectural innovations, while highlighting open challenges such as model interpretability, cross-domain generalization, and real-world applicability in EEG-based systems. By unifying this dispersed field, our work not only provides a reference framework for future methodology development but accelerates the translation of EEG foundation models into scalable, interpretable, and online actionable solutions.</td>
 </tr>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
