@@ -1,4 +1,4 @@
-<h2 style='font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: #4a4a4a;'>Updated on 2025-09-21</h2>
+<h2 style='font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: #4a4a4a;'>Updated on 2025-09-22</h2>
 
 <h3 style='font-family: Helvetica, Arial, sans-serif; font-size: 14px; color: #2a7ae2;'>Brain</h3>
 
@@ -63,10 +63,10 @@
 <td style='padding: 4px;'>The debate around Artificial General Intelligence (AGI) remains open due to two fundamentally different goals: replicating human-like performance versus replicating human-like cognitive processes. We argue that current performance-based definitions are inadequate because they provide no clear, mechanism-focused roadmap for research, and they fail to properly define the qualitative nature of genuine intelligence. Drawing inspiration from the human brain, we propose a new paradigm that shifts the focus from external mimicry to the development of foundational cognitive architectures. We define True Intelligence (TI) as a system characterized by six core components: embodied sensory fusion, core directives, dynamic schemata creation, a highly-interconnected multi-expert architecture, an orchestration layer, and lastly, the unmeasurable quality of Interconnectedness, which we hypothesize results in consciousness and a subjective experience. We propose a practical, five-level taxonomy of AGI based on the number of the first five measurable components a system exhibits. This framework provides a clear path forward with developmental milestones that directly address the challenge of building genuinely intelligent systems. We contend that once a system achieves Level-5 AGI by implementing all five measurable components, the difference between it and TI remains as a purely philosophical debate. For practical purposes - and given theories indicate consciousness is an emergent byproduct of integrated, higher-order cognition - we conclude that a fifth-level AGI is functionally and practically equivalent to TI. This work synthesizes diverse insights from analytical psychology, schema theory, metacognition, modern brain architectures and latest works in AI to provide the first holistic, mechanism-based definition of AGI that offers a clear and actionable path for the research community.</td>
 </tr>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
-<td style='padding: 8px;'>2025-09-17</td>
+<td style='padding: 8px;'>2025-09-19</td>
 <td style='padding: 8px;'>Biologically Plausible Online Hebbian Meta-Learning: Two-Timescale Local Rules for Spiking Neural Brain Interfaces</td>
-<td style='padding: 6px;'>Sriram V. C. Nallani, Gautham Ramachandran, Sahil S. Shah</td>
-<td style='padding: 8px;'><a href='http://arxiv.org/abs/2509.14447v1' style='color: #1a73e8;'>Link</a></td>
+<td style='padding: 6px;'>Sriram V. C. Nallani, Gautham Ramachandran, Sahil Shah</td>
+<td style='padding: 8px;'><a href='http://arxiv.org/abs/2509.14447v2' style='color: #1a73e8;'>Link</a></td>
 <td style='padding: 4px;'>Brain-Computer Interfaces face challenges from neural signal instability and memory constraints for real-time implantable applications. We introduce an online SNN decoder using local three-factor learning rules with dual-timescale eligibility traces that avoid backpropagation through time while maintaining competitive performance. Our approach combines error-modulated Hebbian updates, fast/slow trace consolidation, and adaptive learning rate control, requiring only O(1) memory versus O(T) for BPTT methods. Evaluations on two primate datasets achieve comparable decoding accuracy (Pearson $R \geq 0.63$ Zenodo, $R \geq 0.81$ MC Maze) with 28-35% memory reduction and faster convergence than BPTT-trained SNNs. Closed-loop simulations with synthetic neural populations demonstrate adaptation to neural disruptions and learning from scratch without offline calibration. This work enables memory-efficient, continuously adaptive neural decoding suitable for resource-constrained implantable BCI systems.</td>
 </tr>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
@@ -186,10 +186,10 @@
 </thead>
 <tbody>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
-<td style='padding: 8px;'>2025-09-17</td>
+<td style='padding: 8px;'>2025-09-19</td>
 <td style='padding: 8px;'>Biologically Plausible Online Hebbian Meta-Learning: Two-Timescale Local Rules for Spiking Neural Brain Interfaces</td>
-<td style='padding: 6px;'>Sriram V. C. Nallani, Gautham Ramachandran, Sahil S. Shah</td>
-<td style='padding: 8px;'><a href='http://arxiv.org/abs/2509.14447v1' style='color: #1a73e8;'>Link</a></td>
+<td style='padding: 6px;'>Sriram V. C. Nallani, Gautham Ramachandran, Sahil Shah</td>
+<td style='padding: 8px;'><a href='http://arxiv.org/abs/2509.14447v2' style='color: #1a73e8;'>Link</a></td>
 <td style='padding: 4px;'>Brain-Computer Interfaces face challenges from neural signal instability and memory constraints for real-time implantable applications. We introduce an online SNN decoder using local three-factor learning rules with dual-timescale eligibility traces that avoid backpropagation through time while maintaining competitive performance. Our approach combines error-modulated Hebbian updates, fast/slow trace consolidation, and adaptive learning rate control, requiring only O(1) memory versus O(T) for BPTT methods. Evaluations on two primate datasets achieve comparable decoding accuracy (Pearson $R \geq 0.63$ Zenodo, $R \geq 0.81$ MC Maze) with 28-35% memory reduction and faster convergence than BPTT-trained SNNs. Closed-loop simulations with synthetic neural populations demonstrate adaptation to neural disruptions and learning from scratch without offline calibration. This work enables memory-efficient, continuously adaptive neural decoding suitable for resource-constrained implantable BCI systems.</td>
 </tr>
 <tr style='border-bottom: 1px solid #d4d4d4;'>
